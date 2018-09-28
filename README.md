@@ -16,6 +16,9 @@ Currently there are so many biogenic voc emission models including BEIS2, BEIS3,
 >To run SimpleBio under CLI, type ./SimpleBio.R APPL IF_MERGE_TO_SMOKE
 
 ### SimpleBio is *free and opensource*
->Source code of SimpleBio will be released right the moment of my essay publishes.
+>Source code of SimpleBio will be released right the moment of my essay publishes.  
 
-*Contact me via lcw@airmonster.org*
+### SimpleBio installation wiki  
+>https://github.com/airmonster/SimpleBio/wiki
+
+*Contact me via lcw@cdaes.cn*
