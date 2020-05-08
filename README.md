@@ -2,7 +2,7 @@
 ## SimpleBio is a simplified biogenic voc emission model for CMAQ modelers.  
 Currently there are so many biogenic voc emission models including BEIS2, BEIS3, Megan and Globeis, so why should I develop a bvoc model?
 ### SimpleBio is *simple*
-![Calculated ISOP of SCBasin in April](https://github.com/airmonster/SimpleBio/raw/master/SIMPLEBIO_ISOP_monthly_sum.svg)  
+![svg](https://rawgithub.com/airmonster/SimpleBio/raw/master/SIMPLEBIO_ISOP_monthly_sum.svg)  
 
 
 >The SimpleBio Model needs no extra data on landuse or emission factors or LAI or balabala, the only data needed is WRFOUT.
